@@ -1,1 +1,1 @@
-{"description":"Map view","extensionPoint":"<your-application-extension-point>","module":"building-blocks-map/ui/Map/extensions/view.js"}
+{"description":"Map view","extensionPoint":"launchpad-demojam-SuccessFactors-view","module":"building-blocks-map/ui/Map/extensions/view.js"}
